@@ -141,7 +141,7 @@ Console.WriteLine("What is the Master Password")
 
 
 
-            For numOrder = 0 To numOrder
+                            For numOrder = 0 To numOrder - 1
 
                 index = index + 1
                 index1 = index1 + 1
@@ -242,7 +242,7 @@ Console.WriteLine("What is the Master Password")
                 moneyPaid = newAmount
                 End if
                 
-            Loop Until moneyPaid < Newcost
+                        Loop Until moneyPaid >= Newcost
 
             
 

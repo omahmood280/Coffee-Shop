@@ -7,3 +7,7 @@ loops to different data types. It ended up being a Coffee Shop with some random 
 I'd learnt.
 
 To develop this program, I used the console application of Visual Basic, on Visual Studio 2015.
+
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/95428540/197886451-7cd82176-b55e-4d35-8972-e3c62b8a68ed.png">
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/95428540/197886628-3568f697-e83a-428d-bc63-a97ee8f69c6c.png">
+
